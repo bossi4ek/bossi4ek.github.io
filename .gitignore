@@ -1,0 +1,10 @@
+**/.DS_STORE
+.idea/
+npm-debug.log
+.imdone
+build
+coverage
+data
+node_modules
+.env
+*.iml
